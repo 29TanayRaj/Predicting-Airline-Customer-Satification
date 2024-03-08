@@ -18,8 +18,8 @@ Airline satisfaction is important for several reasons:
 Overall, ensuring customer satisfaction is crucial for the long-term success and sustainability of an airline business.
 
 
-In this project an deep learning approch is taken to tackle this problem by building an ANN model. 
-
+### Approch
+In this project an deep learning approch is taken to tackle this problem by building an ANN model. KerasTuner was used to get a basic model and the results were compared with an experimental model.
 
 Project Document - Jupyter Notebook
 Libraries Used - Tensorflow, Keras, KerasTuner, Pandas, Numpy, matplotlib and pandas
