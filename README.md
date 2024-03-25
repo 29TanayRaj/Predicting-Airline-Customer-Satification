@@ -8,7 +8,7 @@ In this project an deep learning approch is taken to tackle this problem by buil
 
  - An airline dataset with **103904** entries was used.
  - An **Artificial Neural Network** was build with **keras API** and using an enternal libary **KerasTuner**.
- - The type of Ann Model was Sequential.
+ - Model was of **Sequential** kind.
  - Test Accuracy of **96%** was achived with the model.
  - Another experimental model was build for comparision with the model build with the keras tuner.
 **Project Document** - Jupyter Notebook.
